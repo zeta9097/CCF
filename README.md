@@ -1,1 +1,3 @@
 # CCF
+
+Credit Card Fraud Detection is a critical area of research in the financial sector, aiming to identify and prevent unauthorized transactions on credit card accounts. As digital payment systems grow, so do the risks associated with fraudulent activities. Detecting these fraudulent transactions quickly and accurately is crucial to protect both consumers and financial institutions. This project focuses on leveraging advanced machine learning algorithms and data analysis techniques to build models that can predict and flag potentially fraudulent activities, ensuring safer and more secure credit card transactions
